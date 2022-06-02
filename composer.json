@@ -1,0 +1,16 @@
+{
+  "name": "shadowrps/advanced-redis-cache",
+  "description": "Library for advanced caching techniques using redis through phpredis/phpredis PHP extension",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Andrey Kanatnikov",
+      "email": "shadow.srps@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.4",
+    "ext-redis": "*"
+  }
+}
